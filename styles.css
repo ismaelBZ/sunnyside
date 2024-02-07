@@ -556,3 +556,9 @@ footer h2 {
     height: unset;
   }
 }
+
+@media only screen and (max-width: 550px) {
+  #hamburguer {
+    display: block;
+  }
+}
