@@ -1,5 +1,6 @@
 # Sunnyside Agency - Landing Page
 
+![sunnyside](https://github.com/ismaelBZ/sunnyside/assets/107486346/fc314ec8-a70f-4857-a74f-f8b6dc2a4e92)
 This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
