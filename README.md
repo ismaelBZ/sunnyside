@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [(https://ismaelbz.github.io/devFinder/)](https://ismaelbz.github.io/devFinder/)
+- Live Site URL: [https://ismaelbz.github.io/sunnyside/](https://ismaelbz.github.io/sunnyside/)
 
 ## My process
 
